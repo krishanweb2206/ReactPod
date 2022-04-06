@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# ReactPod
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A ReactPod website using REACT JS, REDUX (using CODEIAL API)
+
+## Tools and libraries used
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width=125><img src="https://img-a.udemycdn.com/course/750x422/1934362_ca3c.jpg" width=200><img src="https://ourcodeworld.com/public-media/articles/articleocw-562bb367bbee4.png" width=200>
+1. React
+2. Jquery
+
+## Features and Screenshots
+### 1. Front Component (Entry page)
+<img src="https://github.com/krishanweb2206/ReactPod/blob/main/screenshots/1.JPG" height=350>
+
+### 2. Menu Component
+<img src="https://github.com/krishanweb2206/ReactPod/blob/main/screenshots/2.JPG" height=350>
+
+### 3. Game Component
+<img src="https://github.com/krishanweb2206/ReactPod/blob/main/screenshots/3.JPG" height=350>
+
+### 4. Music Component
+<img src="https://github.com/krishanweb2206/ReactPod/blob/main/screenshots/4.JPG" height=350>
+
+### 5. Setting component
+<img src="https://github.com/krishanweb2206/ReactPod/blob/main/screenshots/5.JPG" height=350>
+
+### 6. CoverFlow Component 
+<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/5.PNG" width=500>
+
 
 ## Available Scripts
 
