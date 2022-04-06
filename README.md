@@ -24,7 +24,7 @@ A ReactPod website using REACT JS, REDUX (using CODEIAL API)
 <img src="https://github.com/krishanweb2206/ReactPod/blob/main/screenshots/5.JPG" height=350>
 
 ### 6. CoverFlow Component 
-<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/5.PNG" width=500>
+<img src="https://github.com/krishanweb2206/ReactPod/blob/main/screenshots/6.JPG" height=350>
 
 
 ## Available Scripts
