@@ -1,6 +1,6 @@
 # ReactPod
 
-A ReactPod website using REACT JS, REDUX (using CODEIAL API)
+A ReactPod website using REACT JS
 
 ## Tools and libraries used
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width=125><img src="https://img-a.udemycdn.com/course/750x422/1934362_ca3c.jpg" width=200><img src="https://ourcodeworld.com/public-media/articles/articleocw-562bb367bbee4.png" width=200>
